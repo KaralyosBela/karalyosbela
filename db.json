@@ -1,0 +1,109 @@
+{
+  "value": [
+    {
+      "id": 0,
+      "ContactName": "Maria Anders",
+      "Address": "Obere Str. 57",
+      "City": "Berlin",
+      "Phone": "030-0074321"
+    },
+    {
+      "id": 1,
+      "ContactName": "Ana Trujillo",
+      "Address": "Avda. de la Constitución 2222",
+      "City": "México D.F.",
+      "Phone": "(5) 555-4729"
+    },
+    {
+      "id": 2,
+      "ContactName": "Antonio Moreno",
+      "Address": "Mataderos  2312",
+      "City": "México D.F.",
+      "Phone": "(5) 555-3932"
+    },
+    {
+      "id": 3,
+      "ContactName": "Thomas Hardy",
+      "Address": "120 Hanover Sq.",
+      "City": "London",
+      "Phone": "(171) 555-7788"
+    },
+    {
+      "id": 4,
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "5",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "6",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "7",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "8",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "9",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "10",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "11",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "12",
+      "ContactName": "Karalyos Béla",
+      "Address": "Revesz street",
+      "City": "Pest",
+      "Phone": "01041701288"
+    },
+    {
+      "id": "13",
+      "ContactName": "dfg",
+      "Address": "dfgdf",
+      "City": "gdfg",
+      "Phone": "dfg"
+    },
+    {
+      "id": "14",
+      "ContactName": "dfg",
+      "Address": "dfgdf",
+      "City": "gdfg",
+      "Phone": "dfg"
+    }
+  ]
+}
