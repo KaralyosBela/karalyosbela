@@ -1,109 +1,102 @@
 {
   "value": [
     {
-      "id": 0,
-      "ContactName": "Maria Anders",
-      "Address": "Obere Str. 57",
-      "City": "Berlin",
-      "Phone": "030-0074321"
-    },
-    {
-      "id": 1,
+      "id": "456",
       "ContactName": "Ana Trujillo",
       "Address": "Avda. de la Constitución 2222",
-      "City": "México D.F.",
+      "City": "USA",
       "Phone": "(5) 555-4729"
     },
     {
-      "id": 2,
-      "ContactName": "Antonio Moreno",
-      "Address": "Mataderos  2312",
-      "City": "México D.F.",
-      "Phone": "(5) 555-3932"
+      "id": "454",
+      "ContactName": "Teszt Elek",
+      "Address": "Korona utca 15",
+      "City": "Budapest",
+      "Phone": "(30) 5455-778348"
     },
     {
-      "id": 3,
+      "id": "237",
+      "ContactName": "Finn John",
+      "Address": "Kajszi utca",
+      "City": "Miskolc",
+      "Phone": "30 1523 2342"
+    },
+    {
+      "id": "664",
       "ContactName": "Thomas Hardy",
       "Address": "120 Hanover Sq.",
       "City": "London",
       "Phone": "(171) 555-7788"
     },
     {
-      "id": 4,
+      "id": "457",
       "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
+      "Address": "Révész 9",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     },
     {
-      "id": "5",
+      "id": "123",
+      "ContactName": "Ana Trujillo",
+      "Address": "Avda. de la Constitución 2222",
+      "City": "Tépe",
+      "Phone": "(5) 555-4729"
+    },
+    {
+      "id": "456",
+      "ContactName": "Teszt Elek",
+      "Address": "Korona utca 15",
+      "City": "Budapest",
+      "Phone": "(30) 5455-778348"
+    },
+    {
+      "id": "985",
+      "ContactName": "Finn John",
+      "Address": "10 Square Sq.",
+      "City": "Bécs",
+      "Phone": "30 1523 2342"
+    },
+    {
+      "id": "745",
+      "ContactName": "Thomas Hardy",
+      "Address": "120 Hanover Sq.",
+      "City": "London",
+      "Phone": "(171) 555-7788"
+    },
+    {
+      "id": "234",
       "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
+      "Address": "Révész 9",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     },
     {
-      "id": "6",
+      "id": "967",
       "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
+      "Address": "Révész 9",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     },
     {
-      "id": "7",
+      "id": "664",
       "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
+      "Address": "Révész 99",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     },
     {
-      "id": "8",
+      "id": "332",
       "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
+      "Address": "Révész 9",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     },
     {
-      "id": "9",
-      "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
-    },
-    {
-      "id": "10",
-      "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
-    },
-    {
-      "id": "11",
-      "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
-    },
-    {
-      "id": "12",
-      "ContactName": "Karalyos Béla",
-      "Address": "Revesz street",
-      "City": "Pest",
-      "Phone": "01041701288"
-    },
-    {
-      "id": "13",
-      "ContactName": "dfg",
-      "Address": "dfgdf",
-      "City": "gdfg",
-      "Phone": "dfg"
-    },
-    {
-      "id": "14",
-      "ContactName": "dfg",
-      "Address": "dfgdf",
-      "City": "gdfg",
-      "Phone": "dfg"
+      "id": "845",
+      "ContactName": "Karalyos Bélaaaaaaa",
+      "Address": "Révész 9",
+      "City": "Berettyóújfalu",
+      "Phone": "30 666 69696"
     }
   ]
 }
